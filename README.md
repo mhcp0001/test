@@ -5,4 +5,4 @@ browser
 
 branch ubuntu
 
-browser edit
+ubuntu edit
